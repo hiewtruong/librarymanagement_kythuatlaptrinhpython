@@ -22,7 +22,7 @@
 3. **Restore database:**
    - Chuột phải vào mục Databases → chọn Restore Database...
    - Ở mục Source, chọn Device → nhấn ... → Add → chọn file  
-     3.ScriptAndBackUp/LibraryManagementApplication.bak trong source code.
+     3.Script/LibraryManagementApplication.bak trong source code.
    - Đặt tên database là LibraryManagementApplication (hoặc tên bạn muốn).
    - Nhấn OK để tiến hành restore.
 4. **Kiểm tra lại**: Sau khi restore xong, kiểm tra trong danh sách database đã có LibraryManagementApplication.
